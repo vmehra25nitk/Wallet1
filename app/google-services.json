@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "341116633919",
+    "firebase_url": "https://wallet1-a5974.firebaseio.com",
+    "project_id": "wallet1-a5974",
+    "storage_bucket": "wallet1-a5974.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:341116633919:android:f844b99e91516314",
+        "android_client_info": {
+          "package_name": "com.example.vedantmehra.wallet1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "341116633919-mimopo8f6r6p6b1nokd9srosk4092jge.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.vedantmehra.wallet1",
+            "certificate_hash": "4436de1153a4b98a8bdd15b0a018e04b6b63d4bd"
+          }
+        },
+        {
+          "client_id": "341116633919-m97oggu613q5ubjmi3odedflg851ho9k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtVP35wmq6MiGSEx4QuM1rZt1tha4vUZI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "341116633919-m97oggu613q5ubjmi3odedflg851ho9k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
